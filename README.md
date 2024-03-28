@@ -18,13 +18,13 @@ This is a simple web application for submitting form data and storing it in an i
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vas4oo/upwork_assignment.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <project-directory>
+   cd upwork_assignment
    ```
 
 3. Install dependencies:
