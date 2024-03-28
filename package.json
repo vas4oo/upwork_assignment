@@ -1,0 +1,18 @@
+{
+  "name": "upwork_assignment",
+  "version": "1.0.0",
+  "description": "Simple form",
+  "author": "Vasil Smolyanski vas4oo.vs@gmail.com",
+  "license": "MIT",
+  "main": "server.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.16.4",
+    "sqlite3": "^5.1.7"
+  }
+}
