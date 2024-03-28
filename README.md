@@ -1,6 +1,3 @@
-Certainly! Below is the README.md content merged into a single file:
-
-```markdown
 # Simple Form Submission App
 
 This is a simple web application for submitting form data and storing it in an in-memory SQLite database.
@@ -48,10 +45,3 @@ This is a simple web application for submitting form data and storing it in an i
 
 - `POST /submit-form`: Submit form data. Required fields: name, email.
 - `GET /submissions`: Retrieve all form submissions stored in the database.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can copy this content into a file named `README.md` in the root directory of your project. Make sure to replace `<repository-url>` and `<project-directory>` with the actual URL of your repository and the directory name of your project, respectively.
